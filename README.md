@@ -1,4 +1,4 @@
-# Principles-and-Applications-of-Artificial-Intelligence-Fall-2022-Projects
+# Principles-and-Applications-of-Artificial-Intelligence-Projects
 # PACMAN AI
 
 This is a project for the PACMAN AI course from the University of Berkeley. It contains four phases: search, multi agent, MDP and RL, and GhostBusters.
