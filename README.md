@@ -1,18 +1,22 @@
-# Artificial Intelligence Project
+# Pacman AI Project
 
-This project focuses on three phases of Artificial Intelligence: Search Algorithms, Multi-Agent Systems, and Reinforcement Learning. Each phase explores different aspects of AI and its applications in solving complex problems.
+This project focuses on three phases of Artificial Intelligence: Search Algorithms, Multi-Agent Systems, and Reinforcement Learning, applied to the classic Pacman game. Each phase explores different aspects of AI and aims to enhance Pacman's capabilities using various techniques.
 
 ## Phase 1: Search Algorithms
-In this phase, we implement various search algorithms such as depth-first search, breadth-first search, and A* search. These algorithms are used to find optimal paths and solutions in a given search space. The project includes implementations of the algorithms and provides visualization capabilities to observe their search progress.
+
+In this phase, we implement search algorithms to enable Pacman to find optimal paths and make intelligent decisions. The algorithms include depth-first search, breadth-first search, and A* search. By applying these algorithms, Pacman can navigate through the maze, avoiding obstacles, and reaching its goals effectively.
 
 ## Phase 2: Multi-Agent Systems
-The second phase involves the development of multi-agent systems. We explore how multiple agents can interact and cooperate to achieve common goals. The project focuses on designing communication protocols, negotiation strategies, and decision-making mechanisms for the agents. The goal is to create intelligent agents that can effectively work together in dynamic environments.
+
+The second phase involves developing a multi-agent system for Pacman, where Pacman interacts with ghosts and other agents within the game. We design communication protocols, decision-making mechanisms, and strategies for Pacman to coordinate its actions with the ghosts and achieve its objectives. This phase emphasizes the cooperation and competition aspects of Pacman's interactions with other agents.
 
 ## Phase 3: Reinforcement Learning
-In the final phase, we delve into reinforcement learning techniques. Reinforcement learning enables an agent to learn optimal actions through trial and error. We implement algorithms such as Q-learning. The project includes training simulations, reward systems, and evaluation metrics to assess the performance of the learned policies.
+
+In the final phase, we employ reinforcement learning techniques to train Pacman to make optimal decisions based on rewards and punishments. We implement Q-learning, a popular reinforcement learning algorithm, to enable Pacman to learn from its interactions with the game environment. Through trial and error, Pacman improves its performance and adapts its actions to achieve better outcomes.
 
 ## Prerequisites
-- Python programming knowledge
-- Familiarity with AI concepts
-- Understanding of search algorithms, multi-agent systems, and reinforcement learning principles
 
+- Python programming knowledge
+- Familiarity with AI concepts and algorithms
+- Understanding of search algorithms, multi-agent systems, and reinforcement learning principles
+- Basic knowledge of the Pacman game and its rules
